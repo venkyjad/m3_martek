@@ -1,0 +1,83 @@
+services:
+  # MySQL Database
+  mysql:
+    image: mysql:8.0
+    container_name: backend_mysql_dev
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: backend_db
+      MYSQL_USER: app_user
+      MYSQL_PASSWORD: app_password
+    ports:
+      - "3306:3306"
+    volumes:
+      - mysql_dev_data:/var/lib/mysql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      timeout: 20s
+      retries: 10
+    networks:
+      - backend_dev_network
+    restart: unless-stopped
+
+  # Qdrant Vector Database
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: backend_qdrant_dev
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_dev_storage:/qdrant/storage
+    environment:
+      QDRANT__SERVICE__HTTP_PORT: 6333
+      QDRANT__SERVICE__GRPC_PORT: 6334
+    # Health check disabled - Qdrant container doesn't have curl/wget available
+    # healthcheck:
+    #   test: ["CMD", "curl", "-f", "http://localhost:6333/"]
+    #   interval: 30s
+    #   timeout: 10s
+    #   retries: 3
+    #   start_period: 40s
+    networks:
+      - backend_dev_network
+    restart: unless-stopped
+
+  # Node.js Application (Development mode with volume mounting)
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: backend_app_dev
+    environment:
+      NODE_ENV: development
+      PORT: 3000
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_USER: root
+      DB_PASSWORD: password
+      DB_NAME: backend_db
+      QDRANT_URL: http://qdrant:6333
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app/src:ro
+      - ./package.json:/app/package.json:ro
+    depends_on:
+      mysql:
+        condition: service_healthy
+      qdrant:
+        condition: service_started
+    command: npm run dev
+    networks:
+      - backend_dev_network
+    restart: unless-stopped
+
+volumes:
+  mysql_dev_data:
+  qdrant_dev_storage:
+
+networks:
+  backend_dev_network:
+    driver: bridge
