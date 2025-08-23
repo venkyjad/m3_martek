@@ -5,6 +5,7 @@ const compression = require('compression');
 require('dotenv').config();
 
 const healthRoutes = require('./routes/health');
+const creativesRoutes = require('./routes/creatives');
 const serviceInitializer = require('./services/init');
 
 const app = express();
@@ -19,6 +20,7 @@ app.use(express.urlencoded({ extended: true }));
 
 // Routes
 app.use('/health', healthRoutes);
+app.use('/creatives', creativesRoutes);
 
 // Basic API route
 app.get('/', (req, res) => {

@@ -49,6 +49,8 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        NODE_ENV: development
     container_name: backend_app_dev
     environment:
       NODE_ENV: development
@@ -62,8 +64,10 @@ services:
     ports:
       - "3000:3000"
     volumes:
-      - ./src:/app/src:ro
+      - ./src:/app/src
       - ./package.json:/app/package.json:ro
+      - ../creatives.json:/app/creatives.json:ro
+      - /app/node_modules
     depends_on:
       mysql:
         condition: service_healthy

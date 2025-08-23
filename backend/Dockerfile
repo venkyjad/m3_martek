@@ -1,5 +1,12 @@
-# Use Node.js LTS version
-FROM node:18-alpine
+# Use Node.js LTS version with full glibc support for transformers
+FROM node:18-slim
+
+# Install system dependencies for transformers
+RUN apt-get update && apt-get install -y \
+    python3 \
+    python3-pip \
+    build-essential \
+    && rm -rf /var/lib/apt/lists/*
 
 # Set working directory
 WORKDIR /app
@@ -8,14 +15,16 @@ WORKDIR /app
 COPY package*.json ./
 
 # Install dependencies
-RUN npm install --omit=dev
+# Install all dependencies (including dev) if NODE_ENV is development, otherwise omit dev
+ARG NODE_ENV=production
+RUN if [ "$NODE_ENV" = "development" ] ; then npm install ; else npm install --omit=dev ; fi
 
 # Copy source code
 COPY src/ ./src/
 
 # Create non-root user
-RUN addgroup -g 1001 -S nodejs
-RUN adduser -S nodejs -u 1001
+RUN groupadd --gid 1001 nodejs
+RUN useradd --uid 1001 --gid nodejs --shell /bin/bash --create-home nodejs
 
 # Change ownership of the app directory to nodejs user
 RUN chown -R nodejs:nodejs /app

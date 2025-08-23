@@ -1,6 +1,6 @@
 # Backend Service
 
-A Node.js Express application with MySQL and Qdrant vector database, fully dockerized with comprehensive health checking.
+A Node.js Express application with MySQL and Qdrant vector database
 
 ## API Endpoints
 
@@ -69,36 +69,6 @@ A Node.js Express application with MySQL and Qdrant vector database, fully docke
    npm run dev
    ```
 
-## Environment Variables
-
-Copy `env.example` to `.env` and configure:
-
-## Health Check Responses
-
-### Overall Health (`/health`)
-```json
-{
-  "status": "healthy",
-  "timestamp": "2024-01-01T00:00:00.000Z",
-  "services": {
-    "api": {
-      "status": "healthy",
-      "message": "API service is running"
-    },
-    "mysql": {
-      "status": "healthy",
-      "message": "MySQL connection is active"
-    },
-    "qdrant": {
-      "status": "healthy",
-      "message": "Qdrant connection is active"
-    }
-  },
-  "uptime": 123.456,
-  "memory": {...},
-  "version": "1.0.0"
-}
-```
 
 ## Docker Services
 
