@@ -18,7 +18,7 @@ router.get('/', async (req, res) => {
       timestamp: new Date().toISOString(),
       services: {
         api: {
-          status: 'healthy',
+          status: 'healthy-king!',
           message: 'API service is running'
         },
         mysql: mysqlHealth,

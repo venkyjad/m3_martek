@@ -1,0 +1,4488 @@
+[
+  {
+    "id": "cr001",
+    "name": "Layla Al-Maktoum",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "skills": [
+      "restaurant_branding",
+      "menu_design",
+      "food_packaging"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "restaurant_branding_portfolio",
+      "menu_design_portfolio",
+      "food_packaging_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 190,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr002",
+    "name": "Salma Habib",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 186,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr003",
+    "name": "Khalid Khoury",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 167,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr004",
+    "name": "Nasser Al-Maktoum",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 69,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr005",
+    "name": "Abdullah Abdel Rahman",
+    "country": "Saudi Arabia",
+    "city": "Khobar",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 45,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr006",
+    "name": "Fahad Al-Saud",
+    "country": "Kuwait",
+    "city": "Salmiya",
+    "skills": [
+      "food_photography",
+      "food_styling",
+      "culinary_branding"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_photography_portfolio",
+      "food_styling_portfolio",
+      "culinary_branding_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 89,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr007",
+    "name": "Khalid Al-Kuwari",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 128,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr008",
+    "name": "Faisal Al-Busaidi",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 75,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr009",
+    "name": "Hala Al-Mansouri",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 117,
+    "years_experience": 9,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr010",
+    "name": "Faisal Al-Kuwari",
+    "country": "Oman",
+    "city": "Salalah",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 211,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr011",
+    "name": "Noura Khalil",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 56,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr012",
+    "name": "Omar Al-Kuwari",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "lifestyle_photography",
+      "product_photography",
+      "ecommerce_content"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "lifestyle_photography_portfolio",
+      "product_photography_portfolio",
+      "ecommerce_content_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 130,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr013",
+    "name": "Mariam Al-Kuwari",
+    "country": "Saudi Arabia",
+    "city": "Khobar",
+    "skills": [
+      "lifestyle_photography",
+      "product_photography",
+      "ecommerce_content"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "lifestyle_photography_portfolio",
+      "product_photography_portfolio",
+      "ecommerce_content_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 147,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr014",
+    "name": "Layla Mansour",
+    "country": "Oman",
+    "city": "Nizwa",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 166,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr015",
+    "name": "Khalid Hassan",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 106,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr016",
+    "name": "Nour Al-Mansouri",
+    "country": "Bahrain",
+    "city": "Manama",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 229,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr017",
+    "name": "Rashid Bin Rashid",
+    "country": "Oman",
+    "city": "Nizwa",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 5,
+    "completed_projects_count": 72,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr018",
+    "name": "Noura Habib",
+    "country": "Oman",
+    "city": "Nizwa",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 86,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr019",
+    "name": "Maryam Al-Busaidi",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 178,
+    "years_experience": 9,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr020",
+    "name": "Abdullah Habib",
+    "country": "Kuwait",
+    "city": "Hawalli",
+    "skills": [
+      "lifestyle_photography",
+      "product_photography",
+      "ecommerce_content"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "lifestyle_photography_portfolio",
+      "product_photography_portfolio",
+      "ecommerce_content_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 160,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr021",
+    "name": "Mansour Al-Khalifa",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 49,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr022",
+    "name": "Waleed Al-Kuwari",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "skills": [
+      "restaurant_branding",
+      "menu_design",
+      "food_packaging"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "restaurant_branding_portfolio",
+      "menu_design_portfolio",
+      "food_packaging_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 55,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr023",
+    "name": "Saad Mansour",
+    "country": "UAE",
+    "city": "Ajman",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 46,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr024",
+    "name": "Salma Al-Zahra",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 192,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr025",
+    "name": "Amina Mansour",
+    "country": "Kuwait",
+    "city": "Salmiya",
+    "skills": [
+      "ecommerce_design",
+      "ui_ux",
+      "conversion_optimization"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_design_portfolio",
+      "ui_ux_portfolio",
+      "conversion_optimization_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 116,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr026",
+    "name": "Rana Al-Thani",
+    "country": "Oman",
+    "city": "Salalah",
+    "skills": [
+      "ecommerce_design",
+      "ui_ux",
+      "conversion_optimization"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_design_portfolio",
+      "ui_ux_portfolio",
+      "conversion_optimization_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 107,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr027",
+    "name": "Salma Al-Rashid",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 140,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr028",
+    "name": "Mariam Al-Sabah",
+    "country": "Saudi Arabia",
+    "city": "Khobar",
+    "skills": [
+      "food_photography",
+      "food_styling",
+      "culinary_branding"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "food_photography_portfolio",
+      "food_styling_portfolio",
+      "culinary_branding_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 128,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr029",
+    "name": "Majid Al-Thani",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "skills": [
+      "food_photography",
+      "food_styling",
+      "culinary_branding"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_photography_portfolio",
+      "food_styling_portfolio",
+      "culinary_branding_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 169,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr030",
+    "name": "Mansour Al-Kuwari",
+    "country": "Saudi Arabia",
+    "city": "Dammam",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 34,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr031",
+    "name": "Omar Al-Thani",
+    "country": "UAE",
+    "city": "Dubai",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 102,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr032",
+    "name": "Omar Al-Sabah",
+    "country": "UAE",
+    "city": "Sharjah",
+    "skills": [
+      "restaurant_branding",
+      "menu_design",
+      "food_packaging"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "restaurant_branding_portfolio",
+      "menu_design_portfolio",
+      "food_packaging_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 211,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr033",
+    "name": "Fahad Khalil",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 203,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr034",
+    "name": "Omar Al-Mansouri",
+    "country": "Oman",
+    "city": "Salalah",
+    "skills": [
+      "social_commerce",
+      "marketplace_photography",
+      "product_styling"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_commerce_portfolio",
+      "marketplace_photography_portfolio",
+      "product_styling_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 213,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr035",
+    "name": "Aisha Khalil",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 68,
+    "years_experience": 9,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr036",
+    "name": "Faisal El-Masry",
+    "country": "UAE",
+    "city": "Ajman",
+    "skills": [
+      "restaurant_branding",
+      "menu_design",
+      "food_packaging"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "restaurant_branding_portfolio",
+      "menu_design_portfolio",
+      "food_packaging_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 207,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr037",
+    "name": "Sultan Mansour",
+    "country": "Qatar",
+    "city": "Doha",
+    "skills": [
+      "lifestyle_photography",
+      "product_photography",
+      "ecommerce_content"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "lifestyle_photography_portfolio",
+      "product_photography_portfolio",
+      "ecommerce_content_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 132,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr038",
+    "name": "Khalid Bin Rashid",
+    "country": "Bahrain",
+    "city": "Manama",
+    "skills": [
+      "restaurant_branding",
+      "menu_design",
+      "food_packaging"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "restaurant_branding_portfolio",
+      "menu_design_portfolio",
+      "food_packaging_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 133,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr039",
+    "name": "Saad Khoury",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 193,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr040",
+    "name": "Faisal Al-Khalifa",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 146,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr041",
+    "name": "Aisha Bin Rashid",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 97,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr042",
+    "name": "Hamad Al-Rashid",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "drone_photography",
+      "aerial_photography",
+      "landscape_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "drone_photography_portfolio",
+      "aerial_photography_portfolio",
+      "landscape_photography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 219,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr043",
+    "name": "Dina Al-Khalifa",
+    "country": "UAE",
+    "city": "Dubai",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 116,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr044",
+    "name": "Nasser Al-Zahra",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "drone_photography",
+      "aerial_photography",
+      "landscape_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "drone_photography_portfolio",
+      "aerial_photography_portfolio",
+      "landscape_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 117,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr045",
+    "name": "Rania Al-Thani",
+    "country": "Oman",
+    "city": "Nizwa",
+    "skills": [
+      "event_photography",
+      "corporate_photography",
+      "headshot_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "event_photography_portfolio",
+      "corporate_photography_portfolio",
+      "headshot_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 92,
+    "years_experience": 9,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr046",
+    "name": "Majid Bin Rashid",
+    "country": "Kuwait",
+    "city": "Hawalli",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 116,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr047",
+    "name": "Aisha Al-Saud",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "skills": [
+      "fashion_photography",
+      "lifestyle_photography",
+      "portrait_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "fashion_photography_portfolio",
+      "lifestyle_photography_portfolio",
+      "portrait_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 57,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr048",
+    "name": "Faisal Bouaziz",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 56,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr049",
+    "name": "Yasmin Al-Sabah",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "drone_photography",
+      "aerial_photography",
+      "landscape_photography"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "drone_photography_portfolio",
+      "aerial_photography_portfolio",
+      "landscape_photography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 156,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr050",
+    "name": "Hassan Mansour",
+    "country": "Saudi Arabia",
+    "city": "Khobar",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 170,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr051",
+    "name": "Salma Bin Rashid",
+    "country": "UAE",
+    "city": "Sharjah",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "hospitality",
+      "travel",
+      "tourism"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "hospitality_projects",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 185,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr052",
+    "name": "Sultan Al-Saud",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "drone_photography",
+      "aerial_photography",
+      "landscape_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "health",
+      "wellness",
+      "fitness"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "drone_photography_portfolio",
+      "aerial_photography_portfolio",
+      "landscape_photography_portfolio",
+      "health_projects",
+      "wellness_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 205,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr053",
+    "name": "Saad Khalil",
+    "country": "Kuwait",
+    "city": "Salmiya",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 113,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr054",
+    "name": "Yasmin Khoury",
+    "country": "Bahrain",
+    "city": "Muharraq",
+    "skills": [
+      "event_photography",
+      "corporate_photography",
+      "headshot_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "culture",
+      "arts",
+      "heritage"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "event_photography_portfolio",
+      "corporate_photography_portfolio",
+      "headshot_photography_portfolio",
+      "culture_projects",
+      "arts_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 64,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr055",
+    "name": "Waleed El-Masry",
+    "country": "Bahrain",
+    "city": "Manama",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 206,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr056",
+    "name": "Fahad Al-Busaidi",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "fashion_photography",
+      "lifestyle_photography",
+      "portrait_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "fashion_photography_portfolio",
+      "lifestyle_photography_portfolio",
+      "portrait_photography_portfolio",
+      "automotive_projects",
+      "industrial_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 154,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr057",
+    "name": "Zara Bouaziz",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "adventure",
+      "outdoor"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "sports_projects",
+      "adventure_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 153,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr058",
+    "name": "Omar Al-Maktoum",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 210,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr059",
+    "name": "Hassan Khoury",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "finance",
+      "corporate",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "finance_projects",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 151,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr060",
+    "name": "Mansour Ben Ali",
+    "country": "Bahrain",
+    "city": "Manama",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "real_estate_projects",
+      "architecture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 132,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr061",
+    "name": "Nour Mansour",
+    "country": "Bahrain",
+    "city": "Muharraq",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 32,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr062",
+    "name": "Nour Al-Zahra",
+    "country": "Bahrain",
+    "city": "Muharraq",
+    "skills": [
+      "fashion_photography",
+      "lifestyle_photography",
+      "portrait_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "fashion_photography_portfolio",
+      "lifestyle_photography_portfolio",
+      "portrait_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 188,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr063",
+    "name": "Mansour Bin Rashid",
+    "country": "Qatar",
+    "city": "Doha",
+    "skills": [
+      "social_commerce",
+      "marketplace_photography",
+      "product_styling"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "hospitality",
+      "travel",
+      "tourism"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_commerce_portfolio",
+      "marketplace_photography_portfolio",
+      "product_styling_portfolio",
+      "hospitality_projects",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 205,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr064",
+    "name": "Khadija Khoury",
+    "country": "Qatar",
+    "city": "Doha",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "automotive_projects",
+      "industrial_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 37,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr065",
+    "name": "Noura Al-Khalifa",
+    "country": "UAE",
+    "city": "Ajman",
+    "skills": [
+      "drone_photography",
+      "aerial_photography",
+      "landscape_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "hospitality",
+      "travel",
+      "tourism"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "drone_photography_portfolio",
+      "aerial_photography_portfolio",
+      "landscape_photography_portfolio",
+      "hospitality_projects",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 176,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr066",
+    "name": "Sara Bouaziz",
+    "country": "Qatar",
+    "city": "Doha",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "health",
+      "wellness",
+      "fitness"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "health_projects",
+      "wellness_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 145,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr067",
+    "name": "Rana El-Masry",
+    "country": "Kuwait",
+    "city": "Hawalli",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 119,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr068",
+    "name": "Tariq Abdel Rahman",
+    "country": "Oman",
+    "city": "Nizwa",
+    "skills": [
+      "architecture_photography",
+      "real_estate_photography",
+      "interior_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography_portfolio",
+      "real_estate_photography_portfolio",
+      "interior_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 37,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr069",
+    "name": "Lina Mansour",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 70,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr070",
+    "name": "Mansour Khoury",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "skills": [
+      "illustration",
+      "typography",
+      "print_design"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "sports",
+      "adventure",
+      "outdoor"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "illustration_portfolio",
+      "typography_portfolio",
+      "print_design_portfolio",
+      "sports_projects",
+      "adventure_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 190,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr071",
+    "name": "Zayed Mansour",
+    "country": "Lebanon",
+    "city": "Tripoli",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 56,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr072",
+    "name": "Noura Abdel Rahman",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "hospitality",
+      "travel",
+      "tourism"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "hospitality_projects",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 5,
+    "completed_projects_count": 152,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr073",
+    "name": "Zara Hassan",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "event_photography",
+      "corporate_photography",
+      "headshot_photography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "event_photography_portfolio",
+      "corporate_photography_portfolio",
+      "headshot_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 143,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr074",
+    "name": "Tariq Al-Busaidi",
+    "country": "Jordan",
+    "city": "Zarqa",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "finance",
+      "corporate",
+      "business"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "finance_projects",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 102,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr075",
+    "name": "Rania Bin Rashid",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "food_photography",
+      "food_styling",
+      "culinary_branding"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_photography_portfolio",
+      "food_styling_portfolio",
+      "culinary_branding_portfolio",
+      "automotive_projects",
+      "industrial_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 5,
+    "completed_projects_count": 152,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr076",
+    "name": "Saad Al-Khalifa",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "amazon_photography",
+      "shopify_design",
+      "product_videography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "amazon_photography_portfolio",
+      "shopify_design_portfolio",
+      "product_videography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 168,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr077",
+    "name": "Hassan Al-Mansouri",
+    "country": "Lebanon",
+    "city": "Sidon",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "automotive_projects",
+      "industrial_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 55,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr078",
+    "name": "Waleed Al-Rashid",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 214,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr079",
+    "name": "Ali Khalil",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "social_commerce",
+      "marketplace_photography",
+      "product_styling"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "finance",
+      "corporate",
+      "business"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_commerce_portfolio",
+      "marketplace_photography_portfolio",
+      "product_styling_portfolio",
+      "finance_projects",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 60,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr080",
+    "name": "Tariq Al-Maktoum",
+    "country": "Egypt",
+    "city": "Giza",
+    "skills": [
+      "event_photography",
+      "corporate_photography",
+      "headshot_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "hospitality",
+      "travel",
+      "tourism"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "event_photography_portfolio",
+      "corporate_photography_portfolio",
+      "headshot_photography_portfolio",
+      "hospitality_projects",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 81,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr081",
+    "name": "Hassan Khalil",
+    "country": "Jordan",
+    "city": "Amman",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "real_estate_projects",
+      "architecture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4,
+    "completed_projects_count": 188,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr082",
+    "name": "Rania Habib",
+    "country": "Morocco",
+    "city": "Marrakech",
+    "skills": [
+      "drone_photography",
+      "aerial_photography",
+      "landscape_photography"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "finance",
+      "corporate",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "drone_photography_portfolio",
+      "aerial_photography_portfolio",
+      "landscape_photography_portfolio",
+      "finance_projects",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 58,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr083",
+    "name": "Khadija Al-Thani",
+    "country": "Tunisia",
+    "city": "Sousse",
+    "skills": [
+      "food_photography",
+      "food_styling",
+      "culinary_branding"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_photography_portfolio",
+      "food_styling_portfolio",
+      "culinary_branding_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 70,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr084",
+    "name": "Abdullah Abdel Rahman",
+    "country": "Egypt",
+    "city": "Cairo",
+    "skills": [
+      "lifestyle_photography",
+      "product_photography",
+      "ecommerce_content"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "lifestyle_photography_portfolio",
+      "product_photography_portfolio",
+      "ecommerce_content_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 168,
+    "years_experience": 8,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr085",
+    "name": "Khadija Al-Thani",
+    "country": "Egypt",
+    "city": "Alexandria",
+    "skills": [
+      "fashion_photography",
+      "lifestyle_photography",
+      "portrait_photography"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "fashion_photography_portfolio",
+      "lifestyle_photography_portfolio",
+      "portrait_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 207,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr086",
+    "name": "Waleed Al-Busaidi",
+    "country": "Egypt",
+    "city": "Cairo",
+    "skills": [
+      "graphic_design",
+      "visual_identity",
+      "brand_strategy"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "health",
+      "wellness",
+      "fitness"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "graphic_design_portfolio",
+      "visual_identity_portfolio",
+      "brand_strategy_portfolio",
+      "health_projects",
+      "wellness_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 179,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr087",
+    "name": "Majid Al-Maktoum",
+    "country": "Jordan",
+    "city": "Irbid",
+    "skills": [
+      "culinary_content",
+      "food_influencer",
+      "gastronomy_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "culinary_content_portfolio",
+      "food_influencer_portfolio",
+      "gastronomy_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 165,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr088",
+    "name": "Khadija Al-Zahra",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "skills": [
+      "commercial_photography",
+      "brand_photography",
+      "advertising_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "commercial_photography_portfolio",
+      "brand_photography_portfolio",
+      "advertising_photography_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 85,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr089",
+    "name": "Rana Khalil",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "graphic_design",
+      "visual_identity",
+      "brand_strategy"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "graphic_design_portfolio",
+      "visual_identity_portfolio",
+      "brand_strategy_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 212,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr090",
+    "name": "Mohammed Al-Busaidi",
+    "country": "Tunisia",
+    "city": "Sfax",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "adventure",
+      "outdoor"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "sports_projects",
+      "adventure_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 224,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr091",
+    "name": "Fahad Al-Saud",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "skills": [
+      "social_commerce",
+      "marketplace_photography",
+      "product_styling"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "beauty",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "social_commerce_portfolio",
+      "marketplace_photography_portfolio",
+      "product_styling_portfolio",
+      "fashion_projects",
+      "beauty_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 59,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr092",
+    "name": "Dina Al-Khalifa",
+    "country": "Jordan",
+    "city": "Irbid",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "technology",
+      "startup",
+      "digital"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "technology_projects",
+      "startup_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 178,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr093",
+    "name": "Rania Abdel Rahman",
+    "country": "Jordan",
+    "city": "Amman",
+    "skills": [
+      "beverage_photography",
+      "food_styling",
+      "restaurant_photography"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "health",
+      "wellness",
+      "fitness"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "beverage_photography_portfolio",
+      "food_styling_portfolio",
+      "restaurant_photography_portfolio",
+      "health_projects",
+      "wellness_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 101,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr094",
+    "name": "Nasser El-Masry",
+    "country": "Tunisia",
+    "city": "Sousse",
+    "skills": [
+      "motion_graphics",
+      "animation",
+      "video_editing"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "ecommerce",
+      "retail",
+      "product"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "motion_graphics_portfolio",
+      "animation_portfolio",
+      "video_editing_portfolio",
+      "ecommerce_projects",
+      "retail_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 171,
+    "years_experience": 5,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr095",
+    "name": "Saud Bouaziz",
+    "country": "Jordan",
+    "city": "Zarqa",
+    "skills": [
+      "graphic_design",
+      "visual_identity",
+      "brand_strategy"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "sports",
+      "adventure",
+      "outdoor"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "graphic_design_portfolio",
+      "visual_identity_portfolio",
+      "brand_strategy_portfolio",
+      "sports_projects",
+      "adventure_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 31,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr096",
+    "name": "Hassan Bouaziz",
+    "country": "Jordan",
+    "city": "Amman",
+    "skills": [
+      "brand_design",
+      "logo_design",
+      "packaging_design"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "brand_design_portfolio",
+      "logo_design_portfolio",
+      "packaging_design_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 45,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr097",
+    "name": "Ali Abdel Rahman",
+    "country": "Tunisia",
+    "city": "Sfax",
+    "skills": [
+      "food_video",
+      "recipe_photography",
+      "restaurant_marketing"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "food_video_portfolio",
+      "recipe_photography_portfolio",
+      "restaurant_marketing_portfolio",
+      "real_estate_projects",
+      "architecture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 41,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr098",
+    "name": "Abdullah Al-Sabah",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "fashion_photography",
+      "lifestyle_photography",
+      "portrait_photography"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "culinary",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "fashion_photography_portfolio",
+      "lifestyle_photography_portfolio",
+      "portrait_photography_portfolio",
+      "food_projects",
+      "culinary_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 85,
+    "years_experience": 2,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr099",
+    "name": "Yasmin Al-Saud",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "skills": [
+      "event_photography",
+      "corporate_photography",
+      "headshot_photography"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "event_photography_portfolio",
+      "corporate_photography_portfolio",
+      "headshot_photography_portfolio",
+      "real_estate_projects",
+      "architecture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 209,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr100",
+    "name": "Zara Hassan",
+    "country": "Tunisia",
+    "city": "Sousse",
+    "skills": [
+      "ecommerce_photography",
+      "product_photography",
+      "digital_marketing"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "hospitality",
+      "travel",
+      "tourism"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "ecommerce_photography_portfolio",
+      "product_photography_portfolio",
+      "digital_marketing_portfolio",
+      "hospitality_projects",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "E-commerce brands",
+      "Food & beverage companies",
+      "International retailers"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 201,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  }
+]

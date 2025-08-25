@@ -1,5 +1,6 @@
 const database = require('../config/database');
 const qdrant = require('../config/qdrant');
+const creativesService = require('./creativesService');
 
 class ServiceInitializer {
   async initialize() {
@@ -14,7 +15,11 @@ class ServiceInitializer {
       console.log('Connecting to Qdrant...');
       const qdrantConnected = await qdrant.connect();
       
-      if (mysqlConnected && qdrantConnected) {
+      // Initialize Creatives service (this will load the embedding model)
+      console.log('Initializing Creatives service...');
+      const creativesInitialized = await creativesService.initialize();
+      
+      if (mysqlConnected && qdrantConnected && creativesInitialized) {
         console.log('All services initialized successfully');
         return true;
       } else {

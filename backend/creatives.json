@@ -1,0 +1,4395 @@
+[
+  {
+    "id": "cr001",
+    "name": "Karim Al-Masri",
+    "country": "Oman",
+    "city": "Salalah",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 34,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr002",
+    "name": "Mohammed Al-Kuwari",
+    "country": "Syria",
+    "city": "Homs",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 178,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr003",
+    "name": "Aisha Khoury",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 28,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr004",
+    "name": "Fadi Bouaziz",
+    "country": "Lebanon",
+    "city": "Sidon",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 205,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr005",
+    "name": "Tarek El-Deeb",
+    "country": "Sudan",
+    "city": "Omdurman",
+    "skills": [
+      "sports_photography",
+      "action",
+      "event_coverage"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "sports_photography",
+      "action",
+      "event_coverage",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 204,
+    "years_experience": 5,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr006",
+    "name": "Zaid Al-Balushi",
+    "country": "Bahrain",
+    "city": "Riffa",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 114,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr007",
+    "name": "Walid Ben Ali",
+    "country": "Oman",
+    "city": "Salalah",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 127,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr008",
+    "name": "Fatima Khalaf",
+    "country": "Algeria",
+    "city": "Oran",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 187,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr009",
+    "name": "Nadia El-Deeb",
+    "country": "Kuwait",
+    "city": "Hawalli",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 60,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr010",
+    "name": "Ali Ben Ali",
+    "country": "Tunisia",
+    "city": "Sfax",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 106,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr011",
+    "name": "Tarek Bin Rashid",
+    "country": "UAE",
+    "city": "Dubai",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 66,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr012",
+    "name": "Nadia Salem",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 36,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr013",
+    "name": "Omar Fares",
+    "country": "Iraq",
+    "city": "Basra",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 3.7,
+    "completed_projects_count": 20,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr014",
+    "name": "Fadi Al-Rashid",
+    "country": "Sudan",
+    "city": "Port Sudan",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 136,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr015",
+    "name": "Layla Abdel Rahman",
+    "country": "Bahrain",
+    "city": "Manama",
+    "skills": [
+      "photography",
+      "portrait",
+      "editorial"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "photography",
+      "portrait",
+      "editorial",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 5,
+    "completed_projects_count": 96,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr016",
+    "name": "Hassan Salem",
+    "country": "Algeria",
+    "city": "Oran",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 3.9,
+    "completed_projects_count": 98,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr017",
+    "name": "Khalid Bouaziz",
+    "country": "Palestine",
+    "city": "Bethlehem",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 143,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr018",
+    "name": "Salma Al-Qasimi",
+    "country": "Libya",
+    "city": "Misrata",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 34,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr019",
+    "name": "Lina Al-Kuwari",
+    "country": "UAE",
+    "city": "Sharjah",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 124,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr020",
+    "name": "Leila Mansour",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 111,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr021",
+    "name": "Hala Mansour",
+    "country": "Libya",
+    "city": "Benghazi",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 3.9,
+    "completed_projects_count": 34,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr022",
+    "name": "Rashid Khoury",
+    "country": "Bahrain",
+    "city": "Muharraq",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 87,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr023",
+    "name": "Rania Al-Rashid",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 173,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr024",
+    "name": "Lina Abdel Rahman",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "food_photography",
+      "lifestyle",
+      "product"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "travel",
+      "tourism",
+      "adventure"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "food_photography",
+      "lifestyle",
+      "product",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Travel companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 106,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr025",
+    "name": "Nasser Al-Masri",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "graphic_design",
+      "branding",
+      "illustration"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "graphic_design",
+      "branding",
+      "illustration",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 3.7,
+    "completed_projects_count": 194,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr026",
+    "name": "Khalid Ben Ali",
+    "country": "Iraq",
+    "city": "Basra",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 110,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr027",
+    "name": "Tarek Al-Masry",
+    "country": "Libya",
+    "city": "Misrata",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 185,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr028",
+    "name": "Aisha Al-Qasimi",
+    "country": "Algeria",
+    "city": "Algiers",
+    "skills": [
+      "photography",
+      "portrait",
+      "editorial"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "photography",
+      "portrait",
+      "editorial",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 70,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr029",
+    "name": "Nasser Salem",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 3.5,
+    "completed_projects_count": 56,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr030",
+    "name": "Layla Khalaf",
+    "country": "Bahrain",
+    "city": "Muharraq",
+    "skills": [
+      "photography",
+      "portrait",
+      "editorial"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "photography",
+      "portrait",
+      "editorial",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 4.1,
+    "completed_projects_count": 180,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr031",
+    "name": "Badr Al-Masry",
+    "country": "Qatar",
+    "city": "Al Wakrah",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 195,
+    "years_experience": 2,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr032",
+    "name": "Rania Salem",
+    "country": "Libya",
+    "city": "Benghazi",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 93,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr033",
+    "name": "Zaid Abdel Rahman",
+    "country": "Lebanon",
+    "city": "Tripoli",
+    "skills": [
+      "graphic_design",
+      "branding",
+      "illustration"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "graphic_design",
+      "branding",
+      "illustration",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 28,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr034",
+    "name": "Nasser El-Deeb",
+    "country": "Lebanon",
+    "city": "Sidon",
+    "skills": [
+      "photography",
+      "portrait",
+      "editorial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "photography",
+      "portrait",
+      "editorial",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 177,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr035",
+    "name": "Rana Al-Masri",
+    "country": "Syria",
+    "city": "Aleppo",
+    "skills": [
+      "photography",
+      "portrait",
+      "editorial"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "photography",
+      "portrait",
+      "editorial",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 175,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr036",
+    "name": "Fatima El-Deeb",
+    "country": "Algeria",
+    "city": "Constantine",
+    "skills": [
+      "sports_photography",
+      "action",
+      "event_coverage"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "sports_photography",
+      "action",
+      "event_coverage",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 69,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr037",
+    "name": "Adel Al-Masry",
+    "country": "Oman",
+    "city": "Salalah",
+    "skills": [
+      "food_photography",
+      "lifestyle",
+      "product"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "food_photography",
+      "lifestyle",
+      "product",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 85,
+    "years_experience": 5,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr038",
+    "name": "Omar Bouaziz",
+    "country": "Morocco",
+    "city": "Marrakech",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 5,
+    "completed_projects_count": 151,
+    "years_experience": 5,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr039",
+    "name": "Sami Al-Rashid",
+    "country": "Palestine",
+    "city": "Bethlehem",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 3.7,
+    "completed_projects_count": 142,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr040",
+    "name": "Youssef Al-Masry",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 163,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr041",
+    "name": "Sara El-Deeb",
+    "country": "Palestine",
+    "city": "Gaza",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 3.9,
+    "completed_projects_count": 218,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr042",
+    "name": "Ali Al-Masry",
+    "country": "Iraq",
+    "city": "Basra",
+    "skills": [
+      "food_photography",
+      "lifestyle",
+      "product"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "food_photography",
+      "lifestyle",
+      "product",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 206,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr043",
+    "name": "Karim Al-Masri",
+    "country": "Iraq",
+    "city": "Basra",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "travel",
+      "tourism",
+      "adventure"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Travel companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 61,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr044",
+    "name": "Marwan Al-Balushi",
+    "country": "Iraq",
+    "city": "Basra",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 47,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr045",
+    "name": "Tarek Khalaf",
+    "country": "Jordan",
+    "city": "Amman",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 3.9,
+    "completed_projects_count": 129,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr046",
+    "name": "Sara Bouaziz",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 146,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr047",
+    "name": "Mohammed Fares",
+    "country": "Libya",
+    "city": "Tripoli",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 101,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr048",
+    "name": "Samir Khalaf",
+    "country": "Jordan",
+    "city": "Irbid",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 32,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr049",
+    "name": "Yasmin Ben Ali",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 3.7,
+    "completed_projects_count": 160,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr050",
+    "name": "Soraya Ben Ali",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "travel",
+      "tourism",
+      "adventure"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Travel companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 214,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr051",
+    "name": "Rana Al-Qasimi",
+    "country": "Kuwait",
+    "city": "Salmiya",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4.7,
+    "completed_projects_count": 39,
+    "years_experience": 3,
+    "specialty_level": "mid-level",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr052",
+    "name": "Zara Al-Qasimi",
+    "country": "Oman",
+    "city": "Muscat",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 3.9,
+    "completed_projects_count": 153,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr053",
+    "name": "Sami Mansour",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 178,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr054",
+    "name": "Layla Bin Rashid",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "travel",
+      "tourism",
+      "adventure"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Travel companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 35,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr055",
+    "name": "Fadi Salem",
+    "country": "Algeria",
+    "city": "Oran",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 5,
+    "completed_projects_count": 179,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr056",
+    "name": "Nadia Al-Masry",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 197,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr057",
+    "name": "Ahmed Hassan",
+    "country": "Saudi Arabia",
+    "city": "Jeddah",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 54,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr058",
+    "name": "Zaid Al-Masry",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 63,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr059",
+    "name": "Sara Bin Rashid",
+    "country": "Libya",
+    "city": "Benghazi",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 210,
+    "years_experience": 2,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr060",
+    "name": "Adel Fares",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 129,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr061",
+    "name": "Rania Al-Rashid",
+    "country": "Algeria",
+    "city": "Constantine",
+    "skills": [
+      "sports_photography",
+      "action",
+      "event_coverage"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "sports_photography",
+      "action",
+      "event_coverage",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 66,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr062",
+    "name": "Mohammed Hassan",
+    "country": "Morocco",
+    "city": "Rabat",
+    "skills": [
+      "graphic_design",
+      "branding",
+      "illustration"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "graphic_design",
+      "branding",
+      "illustration",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 30,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr063",
+    "name": "Layla Fares",
+    "country": "Algeria",
+    "city": "Constantine",
+    "skills": [
+      "sports_photography",
+      "action",
+      "event_coverage"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "sports_photography",
+      "action",
+      "event_coverage",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4.2,
+    "completed_projects_count": 91,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr064",
+    "name": "Samir Al-Balushi",
+    "country": "Algeria",
+    "city": "Algiers",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "travel",
+      "tourism",
+      "adventure"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Travel companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 50,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr065",
+    "name": "Mahmoud Al-Qasimi",
+    "country": "Tunisia",
+    "city": "Sfax",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 132,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr066",
+    "name": "Dina Khalil",
+    "country": "Egypt",
+    "city": "Alexandria",
+    "skills": [
+      "sports_photography",
+      "action",
+      "event_coverage"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "sports_photography",
+      "action",
+      "event_coverage",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 98,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr067",
+    "name": "Omar Ben Ali",
+    "country": "Syria",
+    "city": "Aleppo",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 202,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr068",
+    "name": "Ali Hassan",
+    "country": "Palestine",
+    "city": "Ramallah",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 142,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr069",
+    "name": "Walid Bin Rashid",
+    "country": "Libya",
+    "city": "Benghazi",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 179,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr070",
+    "name": "Karim El-Deeb",
+    "country": "Palestine",
+    "city": "Gaza",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 24,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr071",
+    "name": "Rana Habib",
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 53,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr072",
+    "name": "Nasser Mansour",
+    "country": "Algeria",
+    "city": "Constantine",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 194,
+    "years_experience": 7,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr073",
+    "name": "Yasmin Al-Qasimi",
+    "country": "Libya",
+    "city": "Tripoli",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 122,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr074",
+    "name": "Rashid Al-Kuwari",
+    "country": "Palestine",
+    "city": "Ramallah",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 125,
+    "years_experience": 5,
+    "specialty_level": "senior",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr075",
+    "name": "Ahmed Khalil",
+    "country": "Syria",
+    "city": "Damascus",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 206,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr076",
+    "name": "Leila Khalaf",
+    "country": "Libya",
+    "city": "Misrata",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 3.7,
+    "completed_projects_count": 209,
+    "years_experience": 10,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr077",
+    "name": "Dalal El-Deeb",
+    "country": "Lebanon",
+    "city": "Tripoli",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 3.7,
+    "completed_projects_count": 41,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr078",
+    "name": "Soraya El-Deeb",
+    "country": "Kuwait",
+    "city": "Kuwait City",
+    "skills": [
+      "sports_photography",
+      "action",
+      "event_coverage"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "sports_photography",
+      "action",
+      "event_coverage",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 89,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr079",
+    "name": "Walid Salem",
+    "country": "Libya",
+    "city": "Benghazi",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 90,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr080",
+    "name": "Sami Al-Zahra",
+    "country": "Kuwait",
+    "city": "Hawalli",
+    "skills": [
+      "food_photography",
+      "lifestyle",
+      "product"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "food_photography",
+      "lifestyle",
+      "product",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 82,
+    "years_experience": 2,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr081",
+    "name": "Walid Khalaf",
+    "country": "Libya",
+    "city": "Misrata",
+    "skills": [
+      "food_photography",
+      "lifestyle",
+      "product"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "food_photography",
+      "lifestyle",
+      "product",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 126,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr082",
+    "name": "Rana Al-Masri",
+    "country": "Jordan",
+    "city": "Amman",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 171,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr083",
+    "name": "Hassan Ben Ali",
+    "country": "Bahrain",
+    "city": "Riffa",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 3.9,
+    "completed_projects_count": 67,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr084",
+    "name": "Zara Bin Rashid",
+    "country": "Sudan",
+    "city": "Omdurman",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4,
+    "completed_projects_count": 77,
+    "years_experience": 2,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr085",
+    "name": "Hassan Ben Ali",
+    "country": "Jordan",
+    "city": "Amman",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 145,
+    "years_experience": 11,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr086",
+    "name": "Youssef Al-Qasimi",
+    "country": "Egypt",
+    "city": "Cairo",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 26,
+    "years_experience": 13,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr087",
+    "name": "Adel Abdel Rahman",
+    "country": "Tunisia",
+    "city": "Sousse",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "fashion",
+      "luxury",
+      "lifestyle"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "fashion_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Fashion companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 32,
+    "years_experience": 4,
+    "specialty_level": "mid-level",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr088",
+    "name": "Amina Hassan",
+    "country": "Syria",
+    "city": "Aleppo",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo",
+      "design"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 63,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr089",
+    "name": "Yasmin Al-Masri",
+    "country": "Yemen",
+    "city": "Aden",
+    "skills": [
+      "automotive_photography",
+      "industrial",
+      "commercial"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "corporate",
+      "technology",
+      "business"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "automotive_photography",
+      "industrial",
+      "commercial",
+      "corporate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Corporate companies"
+    ],
+    "rating": 4.9,
+    "completed_projects_count": 80,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr090",
+    "name": "Samir Al-Zahra",
+    "country": "Sudan",
+    "city": "Port Sudan",
+    "skills": [
+      "photography",
+      "portrait",
+      "editorial"
+    ],
+    "mediums": [
+      "photo",
+      "video",
+      "design"
+    ],
+    "themes": [
+      "food",
+      "hospitality",
+      "restaurant"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "photography",
+      "portrait",
+      "editorial",
+      "food_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Food companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 115,
+    "years_experience": 1,
+    "specialty_level": "junior",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr091",
+    "name": "Aisha Salem",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "documentary",
+      "storytelling",
+      "photojournalism"
+    ],
+    "mediums": [
+      "video",
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "documentary",
+      "storytelling",
+      "photojournalism",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 3.8,
+    "completed_projects_count": 70,
+    "years_experience": 8,
+    "specialty_level": "expert",
+    "response_time": "within_48h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr092",
+    "name": "Rashid Al-Kuwari",
+    "country": "Palestine",
+    "city": "Gaza",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "sports",
+      "fitness",
+      "health"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "sports_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Sports companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 206,
+    "years_experience": 9,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr093",
+    "name": "Zara Hassan",
+    "country": "Libya",
+    "city": "Misrata",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 3.6,
+    "completed_projects_count": 166,
+    "years_experience": 14,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "local_only",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr094",
+    "name": "Rashid Al-Kuwari",
+    "country": "Iraq",
+    "city": "Basra",
+    "skills": [
+      "video_production",
+      "editing",
+      "motion_graphics"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "family",
+      "wedding",
+      "portrait"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "video_production",
+      "editing",
+      "motion_graphics",
+      "family_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "booked",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Family companies"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 60,
+    "years_experience": 2,
+    "specialty_level": "mid-level",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr095",
+    "name": "Dina Khoury",
+    "country": "Egypt",
+    "city": "Giza",
+    "skills": [
+      "social_media",
+      "content_creation",
+      "marketing"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "culture",
+      "heritage",
+      "arts"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "social_media",
+      "content_creation",
+      "marketing",
+      "culture_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Culture companies"
+    ],
+    "rating": 4.8,
+    "completed_projects_count": 117,
+    "years_experience": 6,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_day"
+  },
+  {
+    "id": "cr096",
+    "name": "Mohammed Al-Masry",
+    "country": "Syria",
+    "city": "Aleppo",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "design"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "low",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.3,
+    "completed_projects_count": 173,
+    "years_experience": 15,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  },
+  {
+    "id": "cr097",
+    "name": "Tarek Khalaf",
+    "country": "Qatar",
+    "city": "Al Rayyan",
+    "skills": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "real_estate",
+      "architecture",
+      "interior"
+    ],
+    "day_rate_band": "medium",
+    "portfolio_tags": [
+      "animation",
+      "motion_graphics",
+      "3d_modeling",
+      "real_estate_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Real_estate companies"
+    ],
+    "rating": 4.5,
+    "completed_projects_count": 28,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_week",
+    "travel_availability": "regional",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr098",
+    "name": "Badr Al-Balushi",
+    "country": "Lebanon",
+    "city": "Sidon",
+    "skills": [
+      "fashion_photography",
+      "beauty",
+      "commercial"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "nature",
+      "environment",
+      "wildlife"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "fashion_photography",
+      "beauty",
+      "commercial",
+      "nature_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "busy",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Nature companies"
+    ],
+    "rating": 5,
+    "completed_projects_count": 53,
+    "years_experience": 5,
+    "specialty_level": "senior",
+    "response_time": "within_week",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr099",
+    "name": "Fadi Hassan",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "skills": [
+      "web_design",
+      "ui_ux",
+      "digital"
+    ],
+    "mediums": [
+      "video"
+    ],
+    "themes": [
+      "automotive",
+      "industrial",
+      "commercial"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "web_design",
+      "ui_ux",
+      "digital",
+      "automotive_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Automotive companies"
+    ],
+    "rating": 4.6,
+    "completed_projects_count": 115,
+    "years_experience": 5,
+    "specialty_level": "senior",
+    "response_time": "within_48h",
+    "travel_availability": "international",
+    "min_project_duration": "1_week"
+  },
+  {
+    "id": "cr100",
+    "name": "Walid Al-Masry",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "skills": [
+      "architecture_photography",
+      "real_estate",
+      "interior"
+    ],
+    "mediums": [
+      "photo"
+    ],
+    "themes": [
+      "travel",
+      "tourism",
+      "adventure"
+    ],
+    "day_rate_band": "high",
+    "portfolio_tags": [
+      "architecture_photography",
+      "real_estate",
+      "interior",
+      "travel_projects"
+    ],
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "availability": "available",
+    "past_clients": [
+      "Local businesses",
+      "International brands",
+      "Travel companies"
+    ],
+    "rating": 4.4,
+    "completed_projects_count": 35,
+    "years_experience": 12,
+    "specialty_level": "expert",
+    "response_time": "within_24h",
+    "travel_availability": "international",
+    "min_project_duration": "1_month"
+  }
+]
