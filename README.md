@@ -91,24 +91,4 @@ docker-compose logs -f [service-name]
 # Rebuild application
 docker-compose build app
 
-# Run development mode
-npm run dev
-
-# Check service health
-curl http://localhost:3000/health
-```
-
-
-```bash
-# Check container logs
-docker-compose logs app
-docker-compose logs mysql
-docker-compose logs qdrant
-
-# Check container status
-docker-compose ps
-
-# Execute commands in container
-docker-compose exec app sh
-docker-compose exec mysql mysql -u root -p backend_db
 ```

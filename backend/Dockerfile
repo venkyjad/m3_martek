@@ -22,6 +22,9 @@ RUN if [ "$NODE_ENV" = "development" ] ; then npm install ; else npm install --o
 # Copy source code
 COPY src/ ./src/
 
+# Copy creatives.json file from backend directory
+COPY creatives.json ./creatives.json
+
 # Create non-root user
 RUN groupadd --gid 1001 nodejs
 RUN useradd --uid 1001 --gid nodejs --shell /bin/bash --create-home nodejs

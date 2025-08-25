@@ -5,6 +5,21 @@ const creativesService = require('../services/creativesService');
 
 const router = express.Router();
 
+// Debug: Log when routes are loaded
+console.log('Creatives routes loaded with endpoints: ingest, collection-info, search');
+
+// Test route to verify router is working
+router.get('/', (req, res) => {
+  res.json({
+    message: 'Creatives API',
+    available_endpoints: [
+      'POST /ingest - Ingest creatives from JSON',
+      'GET /collection-info - Get Qdrant collection information',
+      'POST /search - Search creatives'
+    ]
+  });
+});
+
 // Initialize the creatives service
 router.use(async (req, res, next) => {
   if (!creativesService.embedder) {
@@ -20,31 +35,18 @@ router.use(async (req, res, next) => {
   next();
 });
 
-// GET /creatives/health - Check service health
-router.get('/health', async (req, res) => {
-  try {
-    const collectionInfo = await creativesService.getCollectionInfo();
-    res.json({
-      status: 'healthy',
-      collection: collectionInfo,
-      embedder_loaded: !!creativesService.embedder
-    });
-  } catch (error) {
-    res.status(500).json({
-      status: 'unhealthy',
-      error: error.message
-    });
-  }
-});
-
 // POST /creatives/ingest - Ingest creatives from JSON file
 router.post('/ingest', async (req, res) => {
   try {
     const { file_path } = req.body;
     
     // Default to the creatives.json file in the app directory if no path provided
-    const creativesFilePath = file_path || path.join(__dirname, '../../creatives.json');
+    const creativesFilePath = file_path || '/app/creatives.json';
     
+    // Debug: Log the current directory and file path
+    console.log('Current __dirname:', __dirname);
+    console.log('Looking for creatives.json at:', creativesFilePath);
+    console.log(creativesFilePath);
     // Check if file exists
     try {
       await fs.access(creativesFilePath);
@@ -91,175 +93,50 @@ router.post('/ingest', async (req, res) => {
   }
 });
 
-// POST /creatives/ingest/single - Ingest a single creative
-router.post('/ingest/single', async (req, res) => {
+// GET /creatives/collection-info - Get Qdrant collection information
+router.get('/collection-info', async (req, res) => {
   try {
-    const creative = req.body;
-    
-    if (!creative.id) {
-      return res.status(400).json({
-        error: 'Invalid creative',
-        message: 'Creative must have an id field'
-      });
-    }
-
-    const result = await creativesService.ingestCreative(creative);
-    
-    if (result.success) {
-      res.json({
-        message: 'Creative ingested successfully',
-        id: result.id
-      });
-    } else {
-      res.status(500).json({
-        error: 'Ingestion failed',
-        message: result.error
-      });
-    }
-
-  } catch (error) {
-    console.error('Single ingestion error:', error);
-    res.status(500).json({
-      error: 'Ingestion failed',
-      message: error.message
-    });
-  }
-});
-
-// GET /creatives/search - Search creatives
-router.get('/search', async (req, res) => {
-  try {
-    const { 
-      q: query = '', 
-      skills, 
-      mediums, 
-      portfolio_tags, 
-      themes,
-      country,
-      availability,
-      day_rate_band,
-      limit = 10 
-    } = req.query;
-
-    // Parse array parameters
-    const filters = {};
-    
-    if (skills) {
-      filters.skills = Array.isArray(skills) ? skills : skills.split(',').map(s => s.trim());
-    }
-    
-    if (mediums) {
-      filters.mediums = Array.isArray(mediums) ? mediums : mediums.split(',').map(s => s.trim());
-    }
-    
-    if (portfolio_tags) {
-      filters.portfolio_tags = Array.isArray(portfolio_tags) ? portfolio_tags : portfolio_tags.split(',').map(s => s.trim());
-    }
-    
-    if (themes) {
-      filters.themes = Array.isArray(themes) ? themes : themes.split(',').map(s => s.trim());
-    }
-
-    if (country) filters.country = country;
-    if (availability) filters.availability = availability;
-    if (day_rate_band) filters.day_rate_band = day_rate_band;
-
-    // If no query provided, use a generic search term
-    const searchQuery = query || 'creative professional';
-
-    const results = await creativesService.searchCreatives(searchQuery, filters, parseInt(limit));
-
+    const info = await creativesService.getCollectionInfo();
     res.json({
-      query: searchQuery,
-      filters: filters,
-      total_results: results.length,
-      results: results
+      success: true,
+      collection_info: info
     });
-
   } catch (error) {
-    console.error('Search error:', error);
+    console.error('Error getting collection info:', error);
     res.status(500).json({
-      error: 'Search failed',
+      success: false,
+      error: 'Failed to get collection info',
       message: error.message
     });
   }
 });
 
-// POST /creatives/search - Advanced search with POST body
+// POST /creatives/search - Search creatives
 router.post('/search', async (req, res) => {
   try {
-    const { 
-      query = 'creative professional', 
-      filters = {}, 
-      limit = 10 
-    } = req.body;
+    const { query, filters = {}, limit = 10 } = req.body;
+    
+    if (!query) {
+      return res.status(400).json({
+        success: false,
+        error: 'Query is required'
+      });
+    }
 
     const results = await creativesService.searchCreatives(query, filters, limit);
-
-    res.json({
-      query: query,
-      filters: filters,
-      total_results: results.length,
-      results: results
-    });
-
-  } catch (error) {
-    console.error('Advanced search error:', error);
-    res.status(500).json({
-      error: 'Search failed',
-      message: error.message
-    });
-  }
-});
-
-// GET /creatives - List all available search fields and example values
-router.get('/', async (req, res) => {
-  try {
-    const collectionInfo = await creativesService.getCollectionInfo();
     
     res.json({
-      message: 'Creatives API',
-      collection_info: {
-        name: collectionInfo.collection_name,
-        points_count: collectionInfo.points_count,
-        vector_size: collectionInfo.config.params.vectors.size
-      },
-      available_endpoints: {
-        'POST /creatives/ingest': 'Ingest creatives from JSON file',
-        'POST /creatives/ingest/single': 'Ingest a single creative',
-        'GET /creatives/search': 'Search creatives with query parameters',
-        'POST /creatives/search': 'Advanced search with request body',
-        'GET /creatives/:id': 'Get creative by ID',
-        'DELETE /creatives/:id': 'Delete creative by ID'
-      },
-      search_fields: [
-        'skills',
-        'mediums', 
-        'portfolio_tags',
-        'themes'
-      ],
-      filter_fields: [
-        'country',
-        'availability',
-        'day_rate_band'
-      ],
-      example_search: {
-        url: '/creatives/search?q=photography&skills=photography,social_media&themes=fashion&limit=5',
-        body: {
-          query: 'luxury brand photography',
-          filters: {
-            skills: ['photography', 'social_media'],
-            themes: ['fashion', 'luxury'],
-            availability: 'available'
-          },
-          limit: 10
-        }
-      }
+      success: true,
+      query: query,
+      filters: filters,
+      total_found: results.length,
+      results: results
     });
-
   } catch (error) {
+    console.error('Error searching creatives:', error);
     res.status(500).json({
-      error: 'Failed to get API info',
+      success: false,
+      error: 'Search failed',
       message: error.message
     });
   }

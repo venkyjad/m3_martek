@@ -204,8 +204,9 @@ class CreativesService {
       };
 
       if (filterConditions.length > 0) {
+        // Use 'should' for more flexible matching instead of 'must' for all conditions
         searchRequest.filter = {
-          must: filterConditions
+          should: filterConditions
         };
       }
 
@@ -239,7 +240,6 @@ class CreativesService {
       throw error;
     }
   }
-
 }
 
 const creativesService = new CreativesService();

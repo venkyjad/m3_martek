@@ -56,6 +56,22 @@ class DatabaseConnection {
     return this.pool;
   }
 
+  // Expose getConnection method from the pool
+  async getConnection() {
+    if (!this.pool) {
+      throw new Error('Database pool not initialized. Call connect() first.');
+    }
+    return await this.pool.getConnection();
+  }
+
+  // Expose execute method from the pool
+  async execute(query, params) {
+    if (!this.pool) {
+      throw new Error('Database pool not initialized. Call connect() first.');
+    }
+    return await this.pool.execute(query, params);
+  }
+
   async close() {
     if (this.pool) {
       await this.pool.end();
